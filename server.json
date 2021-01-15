@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img":"https://cdn-veloxcode.s3.sa-east-1.amazonaws.com/banco-de-imagens/asTGDMAtU9Y3B6xQlJp8qMV92Rpag8ZmHPccPpRI.png",
+      "name": "Café Mellita",
+      "measure":"500g",
+      "price": 18.50
+    },
+    {
+      "id": 2,
+      "img":"https://www.lojatertulia.com.br/wp-content/uploads/2019/01/Erva-mate-chimarr%C3%A3o-Tert%C3%BAlia-1kg-1.png",
+      "name": "Erva de Chimarrão",
+      "measure":"1KG",
+      "price": 13.50
+    },
+    {
+      "id": 3,
+      "img":"https://apucarana.cidadecancao.com/media/catalog/product/cache/1/image/420x565/9df78eab33525d08d6e5fb8d27136e95/a/d/add46c3b670ef507e001cad5181fdcbb9d7f71.png_3.png",
+      "name": "Farinha de Trigo Sol",
+      "measure":"5KG",
+      "price": 10.50
+    },
+    {
+      "id": 4,
+      "img":"https://www.clubeextra.com.br/img/uploads/1/246/596246.png",
+      "name": "Arroz Agulhinha",
+      "measure":"1KG",
+      "price": 6.99
+    },
+    {
+      "id": 5,
+      "img":"https://kicaldo.com.br/wp-content/uploads/2020/07/Kicaldo-feijaopreto-1.png",
+      "name": "Feijão preto",
+      "measure":"1KG",
+      "price": 6.33
+    }
+  ],
+  "stock": [
+    {
+      "id": 1,
+      "quantity": 5
+    },
+    {
+      "id": 2,
+      "quantity": 5
+    },
+    {
+      "id": 3,
+      "quantity": 5
+    },
+    {
+      "id": 4,
+      "quantity": 2
+    },
+    {
+      "id": 5,
+      "quantity": 2
+    }
+  ]
+}
