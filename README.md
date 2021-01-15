@@ -6,24 +6,24 @@ Markett é um projeto ReactJS desenvolvido focando aperfeiçoar meus conheciment
 
 ## Ferramentas e bibliotecas utilizadas:
 
-> ReactJS (framework de desenvolvimento);
-> Styled-Components  (uso de css em formato typescript para estilizar os componentes React);
-> JSON Server (lib que permite rodar uma api apartir de um arquivo .json, usado na aplicação para carregar os produtos do Market);
-> Axios (para conectar a api com o front-end);
-> React-Router-Dom (para paginação com links mais performáticos dentro do react);
-> Immer (biblioteca que auxilia a tratar da imutabilidade dos estados de forma menos verbosa)
+- ReactJS (framework de desenvolvimento);
+- Styled-Components  (uso de css em formato typescript para estilizar os componentes React);
+- JSON Server (lib que permite rodar uma api apartir de um arquivo .json, usado na aplicação para carregar os produtos do Market);
+- Axios (para conectar a api com o front-end);
+- React-Router-Dom (para paginação com links mais performáticos dentro do react);
+- Immer (biblioteca que auxilia a tratar da imutabilidade dos estados de forma menos verbosa)
 
 ### Demais ferramentas e sites que auxiliaram na construção da UI
 
-> VectorIcons;
-> Dribble(UI ideias);
-> Figma (UI ideias);
-> Pinterest (UI ideias);
+- VectorIcons;
+- Dribble(UI ideias);
+- Figma (UI ideias);
+- Pinterest (UI ideias);
 
 ### Conteúdos e ferramentas aprendidos durante o desenvolvimento do app:
 
-> Redux (gerenciador de estados de componentes React);
-> Redux-Saga(interceptador de actions para validar o estoque antes de adicionar o produto no carrinho)
+- Redux (gerenciador de estados de componentes React);
+- Redux-Saga(interceptador de actions para validar o estoque antes de adicionar o produto no carrinho)
 
 # 💡 Ideia
 
